@@ -1,7 +1,7 @@
 # Statistikklubben labb - Sales prediction with XGBoost
 
 ## Before the lab
-- Install [VS Code]([https://code.visualstudio.com/](https://code.visualstudio.com/download)) or any preferred IDE
+- Install [VS Code](https://code.visualstudio.com/](https://code.visualstudio.com/download) or any preferred IDE
 - Install [Python](https://www.python.org/downloads/)
 - Get files
 
