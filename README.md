@@ -4,7 +4,17 @@ This lab is based on the following Kaggle example, with some adjustments:
 
 https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost/notebook
 
-## Things to experiment with:
+## Before the lab:
+- **Install VS Code or any preferred IDE
+- **Install Python
+
+If you are using VS Code, you can do the following to get the files:
+-1.	Open the terminal and run: git clone https://github.com/StatPort/Statistikklubben_labb.git
+-2.	In the terminal, run: cd Statistikklubben_labb (to navigate into the folder)
+-3.	Open VS Code: File → Open Folder → select Statistikklubben_labb
+
+
+## During the lab (things to experiment with):
 - **Evaluation metrics** — try adding RMSE and MAE. Which one is better and more intuitive? 
 - **Visualize predictions** — plot predicted vs actual sales values, what do you notice?
 - **Tune the model** — try changing `n_estimators`, `max_depth` or `learning_rate` in `XGBRegressor()`, does the model improve? 
