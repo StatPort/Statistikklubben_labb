@@ -9,11 +9,6 @@ https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost/note
 - Install Python
 
 If you are using VS Code, you can do the following to get the files:
-1.	Open the terminal and run: git clone https://github.com/StatPort/Statistikklubben_labb.git
-2.	In the terminal, run: cd Statistikklubben_labb (to navigate into the folder)
-3.	Open VS Code: File → Open Folder → select Statistikklubben_labb
-
-If you are using VS Code, you can do the following to get the files:
 
 1. Open the terminal and run:
 ```bash
@@ -24,7 +19,7 @@ If you are using VS Code, you can do the following to get the files:
     cd Statistikklubben_labb
 ```
 3. In VS Code: **File → Open Folder → select Statistikklubben_labb**
-4. 
+
 ## During the lab (things to experiment with):
 - **Evaluation metrics** — try adding RMSE and MAE. Which one is better and more intuitive? 
 - **Visualize predictions** — plot predicted vs actual sales values, what do you notice?
