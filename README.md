@@ -3,6 +3,7 @@
 ## Before the lab
 - Install [VS Code]([https://code.visualstudio.com/](https://code.visualstudio.com/download)) or any preferred IDE
 - Install [Python](https://www.python.org/downloads/)
+- Get files
 
 ### Get the files
 If you are using VS Code, you can do the following:
@@ -27,6 +28,6 @@ If you are using VS Code, you can do the following:
 - **Feature importance** — what does the feature importance plot tell us, and how does this differ from a traditional regression model?
 
 
-This lab is based on the following Kaggle example, with some adjustments:
 
+This lab is based on the following Kaggle example, with some adjustments:
 https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost/notebook
