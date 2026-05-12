@@ -1,5 +1,4 @@
-# Statistikklubben_labb
-Sales prediction with XGBoost
+# Statistikklubben labb - Sales prediction with XGBoost
 
 This lab is based on the following Kaggle example, with some adjustments:
 
