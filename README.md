@@ -5,7 +5,7 @@ This lab is based on the following Kaggle example, with some adjustments:
 https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost/notebook
 
 ## Before the lab
-- Install [VS Code](https://code.visualstudio.com/) or any preferred IDE
+- Install [VS Code]([https://code.visualstudio.com/](https://code.visualstudio.com/download)) or any preferred IDE
 - Install [Python](https://www.python.org/downloads/)
 
 ## Get the files
