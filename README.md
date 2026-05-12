@@ -1,11 +1,11 @@
-## Statistikklubben_labb
+# Statistikklubben_labb
 Sales prediction with XGBoost
 
 This lab is based on the following Kaggle example, with some adjustments:
 
 https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost/notebook
 
-# Improvements/things to experiment with:
+## Things to experiment with:
 - **Evaluation metrics** — try adding RMSE and MAE. Which one is better and more intuitive? 
 - **Visualize predictions** — plot predicted vs actual sales values, what do you notice?
 - **Tune the model** — try changing `n_estimators`, `max_depth` or `learning_rate` in `XGBRegressor()`, does the model improve? 
